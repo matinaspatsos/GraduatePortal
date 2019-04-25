@@ -1,4 +1,4 @@
-# GraduatePortalFall2018
+# GraduatePortal
 
 A place for potential employers to discover and connect to AlbanyCanCode's graduates.
 
@@ -10,3 +10,4 @@ A place for potential employers to discover and connect to AlbanyCanCode's gradu
 - Simona "simi" Asaro
 - Matt Bitley
 - Patrick Gorman
+- Matina Patsos
